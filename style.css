@@ -1,0 +1,23 @@
+html{
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    margin: 0;
+  
+    background-color: black;
+    color: white;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+  
+     /* This centers our sketch horizontally. */
+    justify-content: center;
+    text-align: center
+    
+  
+  }
+  canvas {
+    display: block;
+  }
+  
